@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project implements the Seam Carving method from [Shai Avidan et al.](https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf). It is only a class project so We only implemented a one-dimensional width reducing SeamCarver.
+This project implements the Seam Carving method from [Shai Avidan et al.](https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf). It is only a class project so we only implemented a one-dimensional width reducing SeamCarver.
 
 ## Background
 
